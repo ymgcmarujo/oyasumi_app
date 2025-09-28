@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2025-09-28T13:03:55+00:00",
+  "generatedAt": "2025-09-28T14:38:32+00:00",
   "stories": [
     {
       "id": "story_00001",
@@ -21,6 +21,46 @@
       },
       "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00001.json?v=abe870b2",
       "rev": "abe870b2"
+    },
+    {
+      "id": "story_00002",
+      "slug": "story-00002",
+      "lang": "ja-JP",
+      "title": "こぶたとふしぎなカメ",
+      "seriesId": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "ねかしつけ"
+      ],
+      "durationMs": 173357,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00002.webp?v=33a0b5a5",
+        "w": 1080,
+        "h": 1600
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00002.json?v=33a0b5a5",
+      "rev": "33a0b5a5"
+    },
+    {
+      "id": "story_00003",
+      "slug": "story-00003",
+      "lang": "ja-JP",
+      "title": "こぶたとおしゃべりことり",
+      "seriesId": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "ねかしつけ"
+      ],
+      "durationMs": 143930,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00003.webp?v=c3b17579",
+        "w": 1080,
+        "h": 1600
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00003.json?v=c3b17579",
+      "rev": "c3b17579"
     }
   ]
 }

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00003",
+  "lang": "ja-JP",
+  "title": "こぶたとおしゃべりことり",
+  "rev": "c3b17579",
+  "createdAt": "2025-09-28T14:38:32+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00003.webp?v=c3b17579",
+    "w": 1080,
+    "h": 1600
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 845
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "子豚のポコは、森の道をすたすた歩いていました。昨日はカメのトトと友達になり、心がうきうきしています。今日はどんな友達に会えるだろうと、ポコは胸をふくらませていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_001.m4a",
+        "durationMs": 14294,
+        "size": 118742
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "ふと頭の上から「チュンチュン」と元気な声が聞こえました。見上げると、小さな青い小鳥が枝にとまっています。小鳥は羽をふるわせて、楽しそうにおしゃべりを続けました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_002.m4a",
+        "durationMs": 14155,
+        "size": 117555
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "「こんにちは！ぼくはポコ。君はだれ？」\n「わたしは小鳥のピピ。歌をうたうのがだいすきなの」\nポコは耳をぴんと立てました。「ぼくも歌うのが好きだよ。いっしょに歌おう！」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_003.m4a",
+        "durationMs": 13632,
+        "size": 113575
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "ふたりは大きな木の下で声を合わせました。ピピは高い声で、ポコは少し低い声で歌います。ふしぎなことに、その歌は森の木々や花たちに届き、リスがひょっこり顔を出し、チョウがひらひら舞いおりてきました。森じゅうがコンサート会場になったようでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_004.m4a",
+        "durationMs": 20086,
+        "size": 166502
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "歌のあと、ポコはピピにお願いしました。「ぼくに森の高い場所を見せてくれない？」ピピは羽をぱたぱた動かし、「じゃあ背中にのって」と誘いました。もちろんポコは小鳥に乗ることはできません。でもピピは頭の上を飛びながら、「こっちこっち！」と案内してくれました。ポコは坂道を登り、ピピは空から導きます。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_005.m4a",
+        "durationMs": 25291,
+        "size": 209604
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "やっと丘の上につくと、そこから広い森と遠くの山が見えました。風がすずしく吹き、葉っぱがきらきら光ります。ポコは思わず「わあ！」と声をあげました。ピピが肩のあたりにとまり、ささやきました。「たかいところから見ると、森はひとつの大きな家みたいでしょう？」ポコはうなずき、「ほんとだ、みんながここにすんでいるんだね」と答えました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_006.m4a",
+        "durationMs": 28310,
+        "size": 234613
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "夕日がしずみかけると、ピピは最後の歌を歌ってくれました。やさしい声が風にのり、森じゅうがしんと耳をかたむけています。ポコはその歌に包まれて、心がじんわり温かくなりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_007.m4a",
+        "durationMs": 14998,
+        "size": 124762
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "「ポコ、また歌をうたおうね」\n「うん！ピピ、きっとまた会おうね」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_008.m4a",
+        "durationMs": 6145,
+        "size": 51619
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "その日ポコは、新しい友達と音楽の楽しさを分け合いながら、森を帰っていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00003/chap_009.m4a",
+        "durationMs": 7019,
+        "size": 58840
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  }
+}

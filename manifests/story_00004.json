@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00004",
+  "lang": "ja-JP",
+  "title": "こぶたとふしぎなフクロウ",
+  "rev": "e7d43f13",
+  "createdAt": "2025-09-28T14:40:45+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00004.webp?v=e7d43f13",
+    "w": 1080,
+    "h": 1600
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 823
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "子豚のポコは、森をとことこ歩いていました。トトやピピと遊んだ楽しい日々を思い出しながら、「今日はどんな友達に会えるかな」と胸をわくわくさせていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_001.m4a",
+        "durationMs": 12310,
+        "size": 102523
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "そのとき、木の上から「ホーホー」という低い声が聞こえました。見上げると、大きな目をしたフクロウが枝にとまっています。羽はふかふかで、まるで夜のマントをまとっているようでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_002.m4a",
+        "durationMs": 14539,
+        "size": 120919
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "「こんにちは！ぼくはポコ。君はだれ？」\n「わたしはフクロウのフー。森のことをよく知っているんだよ」\nポコは目を丸くしました。「ほんと？じゃあ森を案内して！」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_003.m4a",
+        "durationMs": 12811,
+        "size": 106794
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "フーは羽をひろげ、ゆっくりと木から木へ飛び移りました。ポコは下を歩きながらついていきます。するとフーは、かくれた場所を教えてくれました。苔におおわれた小さな泉、光る虫がすむ切り株、そして夜になると星が映る池。ポコはひとつひとつに感動しました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_004.m4a",
+        "durationMs": 21195,
+        "size": 175847
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "途中でポコはつまずいて転んでしまいました。するとフーが羽を広げ、やさしく声をかけます。「あわてなくても大丈夫。ゆっくり歩けば森はちゃんと道を教えてくれるよ」ポコは立ち上がり、「ありがとう、フー」と笑いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_005.m4a",
+        "durationMs": 18219,
+        "size": 151216
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "森の奥に着くと、大きな木の根元に空洞がありました。フーが中をのぞくと、そこにはひっそり眠るコウモリの子どもたちがいました。ポコはびっくりしましたが、フーが「昼は眠るんだよ」と教えてくれて安心しました。森には自分の知らないくらしがたくさんあるのだと、ポコは心をひらきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_006.m4a",
+        "durationMs": 22923,
+        "size": 190006
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "やがて夕日がしずみはじめ、森はすこしずつ暗くなりました。フーの目はきらりと光り、夜の森を見守っています。「ポコ、ぼくは夜のあいだも森を見ているんだ。みんなが安心して眠れるようにね」ポコは感心して、「フーは森のおまもりなんだね」と言いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_007.m4a",
+        "durationMs": 20683,
+        "size": 171323
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "「また来てごらん。夜空の星をいっしょに数えよう」フーの声はやさしくひびきました。ポコはにっこりうなずきました。新しい友達フーと出会った森は、ますます大きな家のように思えました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00004/chap_008.m4a",
+        "durationMs": 14763,
+        "size": 122438
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  }
+}

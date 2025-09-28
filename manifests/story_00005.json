@@ -1,0 +1,121 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00005",
+  "lang": "ja-JP",
+  "title": "ティラのふしぎなじかんたび",
+  "rev": "cb623c95",
+  "createdAt": "2025-09-28T15:11:07+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00005.webp?v=cb623c95",
+    "w": 1080,
+    "h": 1600
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 863
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "ティラは小さな恐竜でした。仲間と遊ぶのが大好きですが、ほかの恐竜より少し臆病で、あまり冒険をしたことがありません。ある日、川べりで光る石を見つけました。ティラがその石に触れると、まぶしい光に包まれて、気がつくと知らない場所に立っていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_001.m4a",
+        "durationMs": 21174,
+        "size": 175610
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "そこは、大きな木が空までのびている森。空には見たことのない鳥が飛び、地面では花のような形をした不思議な虫が動いています。ティラはドキドキしましたが、「ここでも友だちを作れるかな」と思いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_002.m4a",
+        "durationMs": 16363,
+        "size": 136029
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "すると、ちょこんと現れたのは、背中に模様のあるカメの子。名前はコロといいます。コロはにっこり笑って、「ここは未来の森だよ。時間の川を越えてきたんだね」と言いました。ティラはびっくりしましたが、コロに手を引かれながら森を歩きました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_003.m4a",
+        "durationMs": 19425,
+        "size": 160919
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "二人は高い丘に登り、光る花がゆれる草原を見渡しました。ティラは「きれいだな。こわくないや」と心が温かくなりました。さらに歩くと、小さな泉に出ました。泉の水面には虹のような光が走り、そこからは未来の生き物たちの声が聞こえてきました。ティラは耳をすませ、「未来にはこんなにたくさんの仲間がいるんだ」と安心しました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_004.m4a",
+        "durationMs": 28438,
+        "size": 235399
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "コロは、「どんな時代でも、友だちはきっと見つかるよ」と優しく言いました。ティラは勇気がわいてきて、もっといろんな景色を見てみたいと思いました。すると、森の奥から風がふきぬけ、光の粒が舞いました。それはまるで星空のようで、ティラは「ぼくも光のように自由に冒険できる」と胸をふくらませました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_005.m4a",
+        "durationMs": 25003,
+        "size": 207136
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "けれども、ふと足元にまたあの光る石がありました。コロは「石に触れれば元の時代に帰れるよ」と教えてくれました。ティラは少しさびしかったけれど、「仲間が待ってる」と思い、石に触れました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_006.m4a",
+        "durationMs": 16192,
+        "size": 134226
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "気がつくと、また川べりに立っていました。空には見慣れた恐竜の群れが見えます。ティラは「冒険って楽しいんだ」と胸を張りました。空にはあたたかい夕日がかがやいていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_007.m4a",
+        "durationMs": 14187,
+        "size": 117705
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "それからティラは、毎日少しずつ勇気を出して、新しい景色や友だちに出会おうと決めたのでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00005/chap_008.m4a",
+        "durationMs": 7617,
+        "size": 63881
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  }
+}

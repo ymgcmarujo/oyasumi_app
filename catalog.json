@@ -1,0 +1,26 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2025-09-28T13:03:55+00:00",
+  "stories": [
+    {
+      "id": "story_00001",
+      "slug": "story-00001",
+      "lang": "ja-JP",
+      "title": "ユニコーンとふしぎなもり",
+      "seriesId": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "ねかしつけ"
+      ],
+      "durationMs": 330036,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00001.webp?v=abe870b2",
+        "w": 1080,
+        "h": 1600
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00001.json?v=abe870b2",
+      "rev": "abe870b2"
+    }
+  ]
+}

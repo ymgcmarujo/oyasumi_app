@@ -1,7 +1,26 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2025-09-28T15:03:37+00:00",
+  "generatedAt": "2025-09-28T15:11:34+00:00",
   "stories": [
+    {
+      "id": "story_00005",
+      "slug": "story-00005",
+      "lang": "ja-JP",
+      "title": "ティラのふしぎなじかんたび",
+      "seriesId": null,
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [],
+      "durationMs": 148399,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00005.webp?v=cb623c95&v=cb623c95",
+        "w": 1080,
+        "h": 1600
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00005.json?v=cb623c95",
+      "rev": "cb623c95"
+    },
     {
       "id": "story_00001",
       "slug": "story-00001",

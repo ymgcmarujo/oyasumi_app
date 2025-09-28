@@ -5,6 +5,9 @@
   "title": "こぶたとふしぎなフクロウ",
   "rev": "e7d43f13",
   "createdAt": "2025-09-28T14:40:45+00:00",
+  "seriesId": "kobuta_poko",
+  "seriesTitle": "こぶたのポコシリーズ",
+  "order": 3,
   "license": {
     "type": "original",
     "tts": {
@@ -118,4 +121,5 @@
     ],
     "cover": true
   }
+
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.0",
-  "generatedAt": "2025-09-28T14:38:32+00:00",
+  "generatedAt": "2025-09-28T14:40:45+00:00",
   "stories": [
     {
       "id": "story_00001",
@@ -61,6 +61,26 @@
       },
       "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00003.json?v=c3b17579",
       "rev": "c3b17579"
+    },
+    {
+      "id": "story_00004",
+      "slug": "story-00004",
+      "lang": "ja-JP",
+      "title": "こぶたとふしぎなフクロウ",
+      "seriesId": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "ねかしつけ"
+      ],
+      "durationMs": 137443,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00004.webp?v=e7d43f13",
+        "w": 1080,
+        "h": 1600
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00004.json?v=e7d43f13",
+      "rev": "e7d43f13"
     }
   ]
 }

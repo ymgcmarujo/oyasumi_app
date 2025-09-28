@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00002",
+  "lang": "ja-JP",
+  "title": "こぶたとふしぎなカメ",
+  "rev": "33a0b5a5",
+  "createdAt": "2025-09-28T14:31:59+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00002.webp?v=33a0b5a5",
+    "w": 1080,
+    "h": 1600
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1037
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "子豚のポコは、森の小道をてくてく歩いていました。今日はとても楽しみにしていた日です。「新しい友達を見つけるんだ！」と胸をどきどきさせながら歌を口ずさんでいました。森の中は木の葉がさらさら揺れ、小鳥たちがぴちぴち鳴いています。小さな風もふわりと吹き、ポコの耳をやさしくなでました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_001.m4a",
+        "durationMs": 23254,
+        "size": 192935
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "道の先に、大きな石のようなものがごろんと置かれていました。ポコは首をかしげました。「なんだろう？座れるかな？」と近づいてみると、それは石ではなく、甲羅をかぶったかめでした。かめはゆっくりと首をのばし、ぱちりと目を開けました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_002.m4a",
+        "durationMs": 19254,
+        "size": 160136
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "「こんにちは、ぼくポコ。君はだれ？」\n「わたしはカメのトト。とてもゆっくりだけど、遊ぶのは大好きなんだ」\nポコは目を輝かせました。「それなら、いっしょに遊ぼう！」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_003.m4a",
+        "durationMs": 13451,
+        "size": 113461
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "ふたりは小川のほとりへ行きました。ポコが拾った葉っぱで小さな船を作り、水に浮かべて流しました。船はゆっくり、ゆっくりと流れていきました。その速さは、トトの歩く速さとぴったり同じでした。ポコは笑いながら、「まるで船がトトとおそろいみたいだね」と言いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_004.m4a",
+        "durationMs": 21792,
+        "size": 180780
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "次にポコは丸い石を積んで塔を作ろうとしました。けれど石はすぐに転がってしまいます。トトはのんびりと甲羅で石を支えてあげました。すると高い石の塔ができて、ポコは大喜び。「トトは力もちだね！」トトは少し照れて、にっこりと笑いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_005.m4a",
+        "durationMs": 19872,
+        "size": 164778
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "そのあとふたりは、落ち葉を集めてふかふかのベッドをつくりました。ポコがごろんと寝ころぶと、落ち葉のまくらから森の匂いがしました。トトも横にころんと座り、「あったかいね」とつぶやきました。ポコは思わず笑って、「ふたりで寝たら、おひるねも楽しいね」と言いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_006.m4a",
+        "durationMs": 21440,
+        "size": 177909
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "さらにポコは、トトと森の奥を探検してみることにしました。木のかげにかくれているきのこを見つけたり、池のほとりでカエルの歌を聞いたりしました。ポコは元気いっぱいに走り、トトはのんびりついてきます。歩く速さは違っても、ふたりの心はすっかり同じリズムになっていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_007.m4a",
+        "durationMs": 21515,
+        "size": 178408
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "夕方になると空はオレンジ色に染まり、森がきらきら光って見えました。小川の水面には夕日が映り、葉っぱの船がゆらゆら揺れています。トトがゆっくり口を開きました。\n「ポコ、きょうは楽しかった。またあしたもあそぼうね」\n「うん、ぜったいあそぼう！」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_008.m4a",
+        "durationMs": 20907,
+        "size": 173219
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "ポコはにっこりと笑い、新しい友達ができたことに胸をいっぱいふくらませました。森を帰る足取りは、ぽかぽかあたたかく、心まで春のようでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00002/chap_009.m4a",
+        "durationMs": 11872,
+        "size": 99197
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  }
+}

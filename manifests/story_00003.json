@@ -5,6 +5,9 @@
   "title": "こぶたとおしゃべりことり",
   "rev": "c3b17579",
   "createdAt": "2025-09-28T14:38:32+00:00",
+  "seriesId": "kobuta_poko",
+  "seriesTitle": "こぶたのポコシリーズ",
+  "order": 2,
   "license": {
     "type": "original",
     "tts": {
@@ -128,4 +131,5 @@
     ],
     "cover": true
   }
+
 }

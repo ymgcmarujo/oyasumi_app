@@ -1,6 +1,6 @@
 {
-  "schemaVersion": "1.0",
-  "generatedAt": "2025-09-28T14:40:45+00:00",
+  "schemaVersion": "1.1",
+  "generatedAt": "2025-09-28T15:03:37+00:00",
   "stories": [
     {
       "id": "story_00001",
@@ -8,14 +8,13 @@
       "lang": "ja-JP",
       "title": "ユニコーンとふしぎなもり",
       "seriesId": null,
+      "seriesTitle": null,
       "order": 1,
       "ageRange": "3-6",
-      "tags": [
-        "ねかしつけ"
-      ],
+      "tags": [],
       "durationMs": 330036,
       "cover": {
-        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00001.webp?v=abe870b2",
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00001.webp?v=abe870b2&v=abe870b2",
         "w": 1080,
         "h": 1600
       },
@@ -27,15 +26,14 @@
       "slug": "story-00002",
       "lang": "ja-JP",
       "title": "こぶたとふしぎなカメ",
-      "seriesId": null,
+      "seriesId": "kobuta_poko",
+      "seriesTitle": "こぶたのポコシリーズ",
       "order": 1,
       "ageRange": "3-6",
-      "tags": [
-        "ねかしつけ"
-      ],
+      "tags": [],
       "durationMs": 173357,
       "cover": {
-        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00002.webp?v=33a0b5a5",
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00002.webp?v=33a0b5a5&v=33a0b5a5",
         "w": 1080,
         "h": 1600
       },
@@ -47,15 +45,14 @@
       "slug": "story-00003",
       "lang": "ja-JP",
       "title": "こぶたとおしゃべりことり",
-      "seriesId": null,
-      "order": 1,
+      "seriesId": "kobuta_poko",
+      "seriesTitle": "こぶたのポコシリーズ",
+      "order": 2,
       "ageRange": "3-6",
-      "tags": [
-        "ねかしつけ"
-      ],
+      "tags": [],
       "durationMs": 143930,
       "cover": {
-        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00003.webp?v=c3b17579",
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00003.webp?v=c3b17579&v=c3b17579",
         "w": 1080,
         "h": 1600
       },
@@ -67,15 +64,14 @@
       "slug": "story-00004",
       "lang": "ja-JP",
       "title": "こぶたとふしぎなフクロウ",
-      "seriesId": null,
-      "order": 1,
+      "seriesId": "kobuta_poko",
+      "seriesTitle": "こぶたのポコシリーズ",
+      "order": 3,
       "ageRange": "3-6",
-      "tags": [
-        "ねかしつけ"
-      ],
+      "tags": [],
       "durationMs": 137443,
       "cover": {
-        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00004.webp?v=e7d43f13",
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00004.webp?v=e7d43f13&v=e7d43f13",
         "w": 1080,
         "h": 1600
       },

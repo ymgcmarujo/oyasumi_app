@@ -1,0 +1,221 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00001",
+  "lang": "ja-JP",
+  "title": "ユニコーンとふしぎなもり",
+  "rev": "abe870b2",
+  "createdAt": "2025-09-28T13:03:55+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/cover_story_00001.webp?v=abe870b2",
+    "w": 1080,
+    "h": 1600
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1930
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "七色のたてがみを持つユニコーンのリリィは、朝の光を浴びてキラキラと輝いていました。\n今日は新しい冒険に出かける日。リリィは胸をどきどきさせながら、広い草原をかけていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_001.m4a",
+        "durationMs": 14742,
+        "size": 122443
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "しばらく進むと、大きな森の入り口に着きました。森の中は少し暗く、ひんやりしています。リリィは「こんにちは、森さん」と声をかけながら、一歩ずつ入っていきました。すると木の枝のあいだから、小さな青い小鳥がひらひらと降りてきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_002.m4a",
+        "durationMs": 20160,
+        "size": 167621
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "「リリィ、こんにちは。この森の奥には光る湖があるんだよ。でも道はぐるぐる曲がっていて、迷いやすいから気をつけてね」\n小鳥はそう言って、ちいさな羽をぱたぱたさせました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_003.m4a",
+        "durationMs": 14347,
+        "size": 119104
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "リリィは「ありがとう。湖を見てみたいわ」と笑って、青い小鳥のあとをついていきました。道のわきには赤い花や黄色い花が咲き、リリィのたてがみの色といっしょになって森を明るくしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_004.m4a",
+        "durationMs": 15446,
+        "size": 128223
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "しばらく歩くと、小さなウサギが木の根っこから顔を出しました。\n「リリィさん、こんにちは。ぼくのにんじんをさがすのをてつだってくれる？」\nリリィは「いいよ」と言って、草むらの中をのぞきこみました。すると、赤い花のかげに小さなにんじんがころがっていました。ウサギは「ありがとう！」とにっこり笑いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_005.m4a",
+        "durationMs": 24630,
+        "size": 203973
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "さらに進むと、カメの親子が道を歩いていました。小さなカメの子は、重たい葉っぱをひとりで持ち上げようとしていました。リリィは優しく角でそっと持ち上げて、カメの子に渡しました。\n「わあ、すごい！ありがとう、リリィ」\n親ガメもゆっくり頭を下げました。リリィの心はぽかぽか温かくなりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_006.m4a",
+        "durationMs": 24822,
+        "size": 205398
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "森の中はふしぎでいっぱい。大きな木の幹には、きらきら光るちょうちょがとまっていました。羽をひろげると、虹のように七色に光り、リリィのたてがみによく似ていました。リリィはちょうちょといっしょにくるくる回って遊びました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_007.m4a",
+        "durationMs": 17398,
+        "size": 144252
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "すると、森の奥から「コロコロ、コロコロ」と不思議な音が聞こえてきました。リリィが近づくと、小さなリスがどんぐりをたくさんころがして遊んでいました。でも、ひとつの大きなどんぐりが穴に落ちてしまって、リスはとても困っていました。\nリリィは「だいじょうぶ？」と声をかけ、角をそっと伸ばしてどんぐりを取り出してあげました。リスは「すごい！きれいなたてがみのユニコーンさん、ありがとう！」と目をかがやかせました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_008.m4a",
+        "durationMs": 33249,
+        "size": 274818
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "やがて二つの道が現れました。右は暗いトンネルのよう、左はひらけて光がさしていました。リリィは少し考えてから、光のさす左の道を選びました。すると風がふわっと吹き、リリィのたてがみの七色が空にうつって、小さな虹がかかりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_009.m4a",
+        "durationMs": 20534,
+        "size": 170233
+      }
+    },
+    {
+      "id": "chap_010",
+      "title": "",
+      "text": "森の奥へ進むと、やさしい音が聞こえてきます。ちゃぷちゃぷ、きらきら。音をたどると、大きな湖がありました。湖は青く光り、水面は星のようにきらめいていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_010.m4a",
+        "durationMs": 14977,
+        "size": 124264
+      }
+    },
+    {
+      "id": "chap_011",
+      "title": "",
+      "text": "湖のほとりには白い花が咲き、その花びらが水に落ちるたび、光の輪が広がりました。青い小鳥が羽をひろげて歌うと、湖はさらにきらめきました。リリィは湖の水をそっと口にふくみました。冷たくて、やさしい味がしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_011.m4a",
+        "durationMs": 19520,
+        "size": 161901
+      }
+    },
+    {
+      "id": "chap_012",
+      "title": "",
+      "text": "湖のまわりには小さな動物たちが集まってきました。ウサギもカメの親子も、リスも、みんなリリィを見てにっこりしています。リリィのたてがみが湖の光と重なって、夜空の星のようにきらめきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_012.m4a",
+        "durationMs": 16139,
+        "size": 134007
+      }
+    },
+    {
+      "id": "chap_013",
+      "title": "",
+      "text": "「わあ、きれい！」\nリリィは湖のそばで深呼吸をしました。すると湖の光がたてがみに映って、さらに明るく輝きました。小鳥も羽をひろげて、うれしそうに歌います。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_013.m4a",
+        "durationMs": 14657,
+        "size": 121804
+      }
+    },
+    {
+      "id": "chap_014",
+      "title": "",
+      "text": "しばらくすると、空がだんだん夕焼けに染まり、湖はオレンジ色に輝きはじめました。リリィと動物たちは並んで座り、空の色がゆっくりと変わっていくのを見つめました。夕焼けがしずむと、こんどは夜のとばりがおり、湖の水面にまるで宝石のような星が映りこみました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_014.m4a",
+        "durationMs": 22422,
+        "size": 185758
+      }
+    },
+    {
+      "id": "chap_015",
+      "title": "",
+      "text": "リリィは夜空を見上げました。たくさんの星がまたたき、遠くで流れ星がスーッと走りました。リリィのたてがみの七色は、星の光とまざりあって、ほんものの虹のように夜空にゆらめきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_015.m4a",
+        "durationMs": 15243,
+        "size": 126456
+      }
+    },
+    {
+      "id": "chap_016",
+      "title": "",
+      "text": "「きらきらって、ずっと見ていたくなるね」\nウサギがぽつりとつぶやくと、みんながうなずきました。カメの子は目をこすりながらあくびをして、リスはどんぐりをかかえて眠たそうにしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_016.m4a",
+        "durationMs": 13760,
+        "size": 114068
+      }
+    },
+    {
+      "id": "chap_017",
+      "title": "",
+      "text": "リリィは優しくみんなを見守りながら思いました。「冒険のごほうびは、こんなふうに大切な仲間とすごす時間なんだね」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_017.m4a",
+        "durationMs": 9120,
+        "size": 76024
+      }
+    },
+    {
+      "id": "chap_018",
+      "title": "",
+      "text": "湖のほとりに夜風が吹き、花の香りがやさしく漂いました。動物たちはリリィのたてがみにくっつくようにして、すやすやと眠っていきました。リリィも目をとじ、七色のたてがみを夜空にゆらしながら、しずかに夢の中へ入っていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00001/chap_018.m4a",
+        "durationMs": 18870,
+        "size": 156480
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  }
+}

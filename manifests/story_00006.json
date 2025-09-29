@@ -1,0 +1,131 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00006",
+  "lang": "ja-JP",
+  "title": "ユニコーンとまほうの森",
+  "rev": "d7f6f010",
+  "createdAt": "2025-09-29T14:39:56+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00006.webp?v=d7f6f010",
+    "w": 1024,
+    "h": 1024
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1017
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "森の奥深く、きらきらと光る泉のほとりに、白いユニコーンがすんでいました。ユニコーンの名前は「ルナ」。ルナは角をひとふりすると、花を咲かせたり、雨をやませたりすることができました。森のみんなはルナのやさしい力にいつも助けられていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_001.m4a",
+        "durationMs": 20320,
+        "size": 168740
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "ルナは毎日、森の小道をゆっくり歩き、動物たちにあいさつをします。鳥たちは高い木の上から歌をうたい、うさぎたちは足もとをぴょんぴょんはねながらついてきます。森の仲間たちはルナといると、心があたたかくなるのです。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_002.m4a",
+        "durationMs": 17920,
+        "size": 149014
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "ある日、森に小さなリスのティミーが泣きながらやってきました。大事にしていた木の実が、川の流れにのまれてしまったのです。ルナはティミーをなぐさめ、角を泉の上にかざしました。すると泉の水がやわらかい光に包まれ、流れていた木の実がふしぎな力で岸へと戻ってきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_003.m4a",
+        "durationMs": 21963,
+        "size": 182018
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "ティミーは大喜びで「ありがとう、ルナ！」と叫びました。その声を聞いた森の鳥やうさぎたちも集まってきて、ルナに「ありがとう」と言いました。ルナはにっこり笑い、「みんなの笑顔がわたしの力になるの」とやさしく答えました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_004.m4a",
+        "durationMs": 18902,
+        "size": 156991
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "その日の夕方、森に大きな雲が流れてきました。空はくらくなって、ぽつぽつと雨がふり出しました。小鳥たちは巣を守るのに大あわて。ルナは角を空に向けると、くもがゆっくりわかれて、おひさまのひかりがのぞき、雨はやさしいしずくに変わりました。しずくは花々をぴかぴかにして、森はかえっていきいきと輝きました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_005.m4a",
+        "durationMs": 25675,
+        "size": 212661
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "ルナの力を見た小鹿のミミは目をまるくして言いました。「ルナって、ほんとうにすごいね！　どうしてそんなにやさしくできるの？」ルナは少し考えて答えました。「わたしも昔は、ひとりでさみしかったの。でも、森のみんながわたしをむかえてくれて、しあわせを知ったの。だから、わたしもみんなをしあわせにしたいの」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_006.m4a",
+        "durationMs": 24342,
+        "size": 201330
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "ミミはうなずいて「じゃあ、わたしたちもだれかがこまっていたら、ルナみたいに手をさしのべるね」と言いました。ルナは「その気持ちがあれば、もう魔法だよ」と笑いました。森の動物たちはその言葉を胸にしまい、互いにやさしくしようと心に決めました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_007.m4a",
+        "durationMs": 20609,
+        "size": 170727
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "夜になり、森は月明かりに照らされました。ルナの角も月といっしょにきらきらと光り、森の動物たちは安心して眠りにつきました。ルナはそっと夜空を見上げ、「明日もみんなにやさしい魔法を届けられますように」とつぶやきました。森には今日も、あたたかい夢が広がっていったのです。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00006/chap_008.m4a",
+        "durationMs": 22315,
+        "size": 184889
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  },
+  "seriesId": "",
+  "order": 1,
+  "tags": [
+    "ユニコーン",
+    "森",
+    "まほう",
+    "どうぶつ",
+    "やさしさ",
+    "しんせつ"
+  ]
+}

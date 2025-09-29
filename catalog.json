@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2025-09-28T15:11:34+00:00",
+  "generatedAt": "2025-09-29T15:42:55+00:00",
   "stories": [
     {
       "id": "story_00005",
@@ -22,6 +22,34 @@
       "rev": "cb623c95"
     },
     {
+      "id": "story_00007",
+      "slug": "story-00007",
+      "lang": "ja-JP",
+      "title": "ユニコーンとふうかのひみつの森",
+      "seriesId": "",
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "ユニコーン",
+        "女の子",
+        "森",
+        "魔法",
+        "友情",
+        "冒険",
+        "星",
+        "湖"
+      ],
+      "durationMs": 260896,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00007.webp?v=cbd5367d&v=cbd5367d",
+        "w": 1024,
+        "h": 1024
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00007.json?v=cbd5367d",
+      "rev": "cbd5367d"
+    },
+    {
       "id": "story_00001",
       "slug": "story-00001",
       "lang": "ja-JP",
@@ -39,6 +67,32 @@
       },
       "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00001.json?v=abe870b2",
       "rev": "abe870b2"
+    },
+    {
+      "id": "story_00006",
+      "slug": "story-00006",
+      "lang": "ja-JP",
+      "title": "ユニコーンとまほうの森",
+      "seriesId": "",
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "ユニコーン",
+        "森",
+        "まほう",
+        "どうぶつ",
+        "やさしさ",
+        "しんせつ"
+      ],
+      "durationMs": 172046,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00006.webp?v=d7f6f010&v=d7f6f010",
+        "w": 1024,
+        "h": 1024
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00006.json?v=d7f6f010",
+      "rev": "d7f6f010"
     },
     {
       "id": "story_00002",

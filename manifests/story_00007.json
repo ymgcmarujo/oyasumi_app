@@ -1,0 +1,263 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00007",
+  "lang": "ja-JP",
+  "title": "ユニコーンとふうかのひみつの森",
+  "rev": "cbd5367d",
+  "createdAt": "2025-09-29T15:41:52+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00007.webp?v=cbd5367d",
+    "w": 1024,
+    "h": 1024
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1544
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "ふうかは森の近くに住んでいる、元気で心のやさしい女の子です。ある日の夕方、ひかりのさす小道を歩いていると、鳥たちの歌にまじって、鈴のような音が森の奥から聞こえてきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_001.m4a",
+        "durationMs": 15478,
+        "size": 128602
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "ふうかは音のする方へと足を進めました。木々の葉の間からこぼれる光は金色にゆれて、森じゅうがきらきらと輝いているようでした。そしてついに音の正体を見つけました。そこには白く大きなたてがみを持つユニコーンが立っていたのです。角は虹色にかがやき、風にそよぐたびに小さな星のかけらのような光が散っていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_002.m4a",
+        "durationMs": 25707,
+        "size": 213147
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "ふうかはびっくりしましたが、不思議とこわさはなく、むしろ胸があたたかくなっていきました。ユニコーンはやさしい声で言いました。「こんにちは、ふうか。わたしは森を見守るユニコーン。あなたが笑うと、この森の花たちも咲くんだよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_003.m4a",
+        "durationMs": 18539,
+        "size": 153743
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "ふうかは目を丸くしました。「わたしが、花を咲かせるの？」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_004.m4a",
+        "durationMs": 4790,
+        "size": 40433
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "ユニコーンはにっこりとうなずきました。「そう。君の心が森に力をくれるんだ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_005.m4a",
+        "durationMs": 6475,
+        "size": 54289
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "ふうかが思いきり笑ってみると、まわりの小さな花々が一斉にひらきました。青い花、黄色い花、赤い花。森は一瞬で色とりどりの花畑に変わりました。ふうかはうれしくて、手をたたきながらくるくる回って笑いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_006.m4a",
+        "durationMs": 18240,
+        "size": 151216
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "するとユニコーンの背中から光の羽がひらりと現れました。「ふうか、一緒に空を飛んでみない？」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_007.m4a",
+        "durationMs": 8086,
+        "size": 67581
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "ふうかはドキドキしながらうなずきました。「うん、飛んでみたい！」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_008.m4a",
+        "durationMs": 5110,
+        "size": 43249
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "ユニコーンの背中に乗ると、ふたりはふわりと空へ舞い上がりました。森が小さくなり、町や川や山がひとつの絵のように広がっていきます。夕焼けの空はオレンジから紫へと変わり、雲は綿菓子のようにふわふわしていました。風はやさしくふうかのほほをなで、耳には鳥の羽音がすぐ近くに聞こえました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_009.m4a",
+        "durationMs": 24107,
+        "size": 199807
+      }
+    },
+    {
+      "id": "chap_010",
+      "title": "",
+      "text": "「すごい！まるで夢みたい！」ふうかは声をあげました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_010.m4a",
+        "durationMs": 4545,
+        "size": 38372
+      }
+    },
+    {
+      "id": "chap_011",
+      "title": "",
+      "text": "ユニコーンは笑いながら答えました。「これは夢ではなく、君の心がつくった景色なんだよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_011.m4a",
+        "durationMs": 7211,
+        "size": 61434
+      }
+    },
+    {
+      "id": "chap_012",
+      "title": "",
+      "text": "しばらく飛んだあと、ユニコーンは静かな湖のほとりに降りました。湖の水はガラスのように透きとおり、空の色と星のきらめきをうつしていました。ふうかが水面をのぞくと、そこには笑顔の自分とユニコーンの姿が仲良くならんで映っていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_012.m4a",
+        "durationMs": 19360,
+        "size": 160536
+      }
+    },
+    {
+      "id": "chap_013",
+      "title": "",
+      "text": "「ふうか、湖は心を映す鏡なんだよ。」ユニコーンが言いました。「君の心がやさしいから、湖もこんなに澄んでいるんだ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_013.m4a",
+        "durationMs": 10497,
+        "size": 87447
+      }
+    },
+    {
+      "id": "chap_014",
+      "title": "",
+      "text": "ふうかは胸がじんわりあたたかくなり、両手で湖の水をすくいました。水は冷たくて気持ちよく、手のひらに光のつぶをのこして消えていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_014.m4a",
+        "durationMs": 11617,
+        "size": 96743
+      }
+    },
+    {
+      "id": "chap_015",
+      "title": "",
+      "text": "やがて夜のとばりがおり、空いっぱいに星がひらめきました。星たちは湖の上でもまたたき、まるで湖の底にもうひとつの空が広がっているようでした。ふうかは思わず息をのみました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_015.m4a",
+        "durationMs": 14689,
+        "size": 121925
+      }
+    },
+    {
+      "id": "chap_016",
+      "title": "",
+      "text": "「星って、手が届きそうだね。」ふうかがつぶやくと、ユニコーンはうなずきました。「君の笑顔があれば、星だって近くに来てくれる。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_016.m4a",
+        "durationMs": 10539,
+        "size": 87890
+      }
+    },
+    {
+      "id": "chap_017",
+      "title": "",
+      "text": "ふうかはにっこり笑いました。そのとたん、一番大きな星が流れ星になって、湖の上をすべるように走りました。ふうかは両手を合わせてお願いごとをしました。「みんながずっと笑顔でいられますように。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_017.m4a",
+        "durationMs": 15990,
+        "size": 132523
+      }
+    },
+    {
+      "id": "chap_018",
+      "title": "",
+      "text": "ユニコーンはその願いを聞いて、やさしく目を細めました。「きっと叶うよ。君の願いは森と空と星に届いたからね。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_018.m4a",
+        "durationMs": 9494,
+        "size": 79059
+      }
+    },
+    {
+      "id": "chap_019",
+      "title": "",
+      "text": "夜がふけると、ユニコーンはふうかを森の入り口まで送ってくれました。「この森が元気でいられるのは、ふうかのやさしい心があるから。これからも笑顔をわすれないでね。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_019.m4a",
+        "durationMs": 13035,
+        "size": 108259
+      }
+    },
+    {
+      "id": "chap_020",
+      "title": "",
+      "text": "ふうかは大きくうなずきました。「うん、ずっと笑顔でいる！」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_020.m4a",
+        "durationMs": 5312,
+        "size": 45058
+      }
+    },
+    {
+      "id": "chap_021",
+      "title": "",
+      "text": "その日から、ふうかが笑うたびに森の花は咲き、湖は澄んだ光をたたえ、星は明るく瞬き、ユニコーンはどこかで見守ってくれているのでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00007/chap_021.m4a",
+        "durationMs": 12075,
+        "size": 100476
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  },
+  "seriesId": "",
+  "order": 1,
+  "tags": [
+    "ユニコーン",
+    "女の子",
+    "森",
+    "魔法",
+    "友情",
+    "冒険",
+    "星",
+    "湖"
+  ]
+}

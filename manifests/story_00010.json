@@ -1,0 +1,428 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00010",
+  "lang": "ja-JP",
+  "title": "ねずみの嫁入り",
+  "rev": "2e45a10c",
+  "createdAt": "2025-09-30T13:34:32+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "author": "楠山正雄",
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00010.webp?v=2e45a10c",
+    "w": 1024,
+    "h": 1024
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1730
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "むかし、むかし、ある家のお倉の中に、お米を持って、麦を持って、粟を持って、豆を持って、たいそうゆたかに暮らしているお金持ちのねずみが住んでおりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_001.m4a",
+        "durationMs": 13483,
+        "size": 111981
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "子供がないので神さまにお願いしますと、やっと女の子が生まれました。その子はずんずん大きくなって、かがやくほど美しくなって、それはねずみのお国でだれ一人くらべるもののない日本一のいい娘になりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_002.m4a",
+        "durationMs": 16257,
+        "size": 134925
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "こうなると、もうねずみの仲間には見わたしたところ、とても娘のお婿さんにするような者はありませんでした。ねずみのおとうさんとおかあさんは、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_003.m4a",
+        "durationMs": 10795,
+        "size": 89659
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "「うちの娘は日本一の娘なのだから、何でも日本一のお婿さんをもらわなければならない。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_004.m4a",
+        "durationMs": 7392,
+        "size": 61895
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "と言いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_005.m4a",
+        "durationMs": 1131,
+        "size": 10971
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "そこでこの世の中でだれがいちばんえらいかというと、それは高い高い空の上から世界中をあかるく照らしておいでになるお日さまの外にはありませんでした。そこでおとうさんはおかあさんと娘を連れて、天へ上っていきました。そしてお日さまに、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_006.m4a",
+        "durationMs": 17931,
+        "size": 148736
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "「お日さま、お日さま、あなたは世の中でいちばんえらいお方です。どうぞわたくしの娘をお嫁にもらって下さいまし。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_007.m4a",
+        "durationMs": 8865,
+        "size": 73887
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "といって、ていねいにおじぎをしました。 するとお日さまはにこにこなさりながら、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_008.m4a",
+        "durationMs": 6049,
+        "size": 50884
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "「それはありがたいが、世の中にはわたしよりもっとえらいものがあるよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_009.m4a",
+        "durationMs": 5152,
+        "size": 43477
+      }
+    },
+    {
+      "id": "chap_010",
+      "title": "",
+      "text": "とおっしゃいました。 おとうさんはびっくりしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_010.m4a",
+        "durationMs": 3585,
+        "size": 31720
+      }
+    },
+    {
+      "id": "chap_011",
+      "title": "",
+      "text": "「まあ、あなたよりもえらい方があるのですか。それはどなたでございますか。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_011.m4a",
+        "durationMs": 5867,
+        "size": 49333
+      }
+    },
+    {
+      "id": "chap_012",
+      "title": "",
+      "text": "「それは雲さ。わたしがいくら空でかんかん照っていようと思っても、雲が出てくるともうだめになるのだからね。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_012.m4a",
+        "durationMs": 8086,
+        "size": 67549
+      }
+    },
+    {
+      "id": "chap_013",
+      "title": "",
+      "text": "「なるほど。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_013.m4a",
+        "durationMs": 918,
+        "size": 8839
+      }
+    },
+    {
+      "id": "chap_014",
+      "title": "",
+      "text": "おとうさんはそこで、こんどは雲の所へ出かけました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_014.m4a",
+        "durationMs": 4182,
+        "size": 35477
+      }
+    },
+    {
+      "id": "chap_015",
+      "title": "",
+      "text": "「雲さん、雲さん、あなたは世の中でいちばんえらいお方です。どうぞわたくしの娘をお嫁にもらって下さいまし。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_015.m4a",
+        "durationMs": 8960,
+        "size": 74633
+      }
+    },
+    {
+      "id": "chap_016",
+      "title": "",
+      "text": "「それはありがたいが、世の中にはわたしよりもっとえらいものがあるよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_016.m4a",
+        "durationMs": 5152,
+        "size": 43477
+      }
+    },
+    {
+      "id": "chap_017",
+      "title": "",
+      "text": "おとうさんはびっくりしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_017.m4a",
+        "durationMs": 2155,
+        "size": 19542
+      }
+    },
+    {
+      "id": "chap_018",
+      "title": "",
+      "text": "「まあ、あなたよりもえらい方があるのですか。それはどなたでございますか。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_018.m4a",
+        "durationMs": 5867,
+        "size": 49333
+      }
+    },
+    {
+      "id": "chap_019",
+      "title": "",
+      "text": "「それは風さ。風に吹きとばされてはわたしもかなわないよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_019.m4a",
+        "durationMs": 4672,
+        "size": 39548
+      }
+    },
+    {
+      "id": "chap_020",
+      "title": "",
+      "text": "「なるほど。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_020.m4a",
+        "durationMs": 918,
+        "size": 8839
+      }
+    },
+    {
+      "id": "chap_021",
+      "title": "",
+      "text": "おとうさんはそこで、こんどは風の所へ出かけていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_021.m4a",
+        "durationMs": 4577,
+        "size": 38808
+      }
+    },
+    {
+      "id": "chap_022",
+      "title": "",
+      "text": "「風さん、風さん、あなたは世の中でいちばんえらいお方です。どうぞわたくしの娘をお嫁にもらって下さいまし。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_022.m4a",
+        "durationMs": 9099,
+        "size": 75806
+      }
+    },
+    {
+      "id": "chap_023",
+      "title": "",
+      "text": "「それはありがたいが、世の中にはわたしよりもっとえらいものがあるよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_023.m4a",
+        "durationMs": 5152,
+        "size": 43477
+      }
+    },
+    {
+      "id": "chap_024",
+      "title": "",
+      "text": "おとうさんはびっくりしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_024.m4a",
+        "durationMs": 2155,
+        "size": 19542
+      }
+    },
+    {
+      "id": "chap_025",
+      "title": "",
+      "text": "「まあ、あなたよりもえらい方があるのですか。それはどなたでございますか。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_025.m4a",
+        "durationMs": 5867,
+        "size": 49333
+      }
+    },
+    {
+      "id": "chap_026",
+      "title": "",
+      "text": "「それは、壁さ。壁ばかりはわたしの力でもとても、吹きとばすことはできないからね。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_026.m4a",
+        "durationMs": 7179,
+        "size": 60084
+      }
+    },
+    {
+      "id": "chap_027",
+      "title": "",
+      "text": "「なるほど。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_027.m4a",
+        "durationMs": 918,
+        "size": 8839
+      }
+    },
+    {
+      "id": "chap_028",
+      "title": "",
+      "text": "おとうさんはそこでまた、のこのこ壁の所へ出かけていきました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_028.m4a",
+        "durationMs": 4854,
+        "size": 41052
+      }
+    },
+    {
+      "id": "chap_029",
+      "title": "",
+      "text": "「壁さん、壁さん、あなたは世の中でいちばんえらいお方です。どうぞうちの娘をお嫁にもらって下さいまし。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_029.m4a",
+        "durationMs": 8822,
+        "size": 73529
+      }
+    },
+    {
+      "id": "chap_030",
+      "title": "",
+      "text": "「それはありがたいが、世の中にはわたしよりもっとえらいものがあるよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_030.m4a",
+        "durationMs": 5152,
+        "size": 43477
+      }
+    },
+    {
+      "id": "chap_031",
+      "title": "",
+      "text": "おとうさんはびっくりしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_031.m4a",
+        "durationMs": 2155,
+        "size": 19542
+      }
+    },
+    {
+      "id": "chap_032",
+      "title": "",
+      "text": "「まあ、あなたよりもえらい方があるのですか。それはどなたでございますか。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_032.m4a",
+        "durationMs": 5867,
+        "size": 49333
+      }
+    },
+    {
+      "id": "chap_033",
+      "title": "",
+      "text": "「それはだれでもない、そういうねずみさんさ。わたしがいくらまっ四角な顔をして、固くなって、がんばっていても、ねずみさんはへいきでわたしの体を食い破って、穴をあけて通り抜けていくじゃないか。だからわたしはどうしてもねずみさんにはかなわないよ。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_033.m4a",
+        "durationMs": 19243,
+        "size": 159561
+      }
+    },
+    {
+      "id": "chap_034",
+      "title": "",
+      "text": "「なるほど。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_034.m4a",
+        "durationMs": 918,
+        "size": 8839
+      }
+    },
+    {
+      "id": "chap_035",
+      "title": "",
+      "text": "とねずみのおとうさんは、こんどこそほんとうにしんから感心したように、ぽんと手を打って、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_035.m4a",
+        "durationMs": 6774,
+        "size": 56806
+      }
+    },
+    {
+      "id": "chap_036",
+      "title": "",
+      "text": "「これは今まで気がつかなかった。じゃあわたしどもが世の中でいちばんえらいのですね。ありがたい。ありがたい。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_036.m4a",
+        "durationMs": 8182,
+        "size": 68378
+      }
+    },
+    {
+      "id": "chap_037",
+      "title": "",
+      "text": "とにこにこしながら、いばって帰っていきました。そして帰るとさっそく、お隣のちゅう助ねずみを娘のお婿さんにしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_037.m4a",
+        "durationMs": 9579,
+        "size": 80216
+      }
+    },
+    {
+      "id": "chap_038",
+      "title": "",
+      "text": "若いお婿さんとお嫁さんは、仲よく暮らして、おとうさんとおかあさんをだいじにしました。そしてたくさん子供を生んで、お倉のねずみの一家はますます栄えました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00010/chap_038.m4a",
+        "durationMs": 12374,
+        "size": 102688
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  },
+  "order": 1,
+  "tags": [
+    "どうわ",
+    "楠山正雄",
+    "青空文庫"
+  ]
+}

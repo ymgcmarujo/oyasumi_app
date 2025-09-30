@@ -1,12 +1,59 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2025-09-29T15:42:55+00:00",
+  "generatedAt": "2025-09-30T13:52:17+00:00",
   "stories": [
+    {
+      "id": "story_00008",
+      "slug": "story-00008",
+      "lang": "ja-JP",
+      "title": "sample",
+      "author": "original",
+      "seriesId": "",
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "sample"
+      ],
+      "durationMs": 1259,
+      "cover": {
+        "url": "",
+        "w": 1080,
+        "h": 1600
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00008.json?v=d6cab80b",
+      "rev": "d6cab80b"
+    },
+    {
+      "id": "story_00010",
+      "slug": "story-00010",
+      "lang": "ja-JP",
+      "title": "ねずみの嫁入り",
+      "author": "楠山正雄",
+      "seriesId": null,
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "どうわ",
+        "楠山正雄",
+        "青空文庫"
+      ],
+      "durationMs": 256284,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00010.webp?v=2e45a10c&v=2e45a10c",
+        "w": 1024,
+        "h": 1024
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00010.json?v=2e45a10c",
+      "rev": "2e45a10c"
+    },
     {
       "id": "story_00005",
       "slug": "story-00005",
       "lang": "ja-JP",
       "title": "ティラのふしぎなじかんたび",
+      "author": "original",
       "seriesId": null,
       "seriesTitle": null,
       "order": 1,
@@ -26,6 +73,7 @@
       "slug": "story-00007",
       "lang": "ja-JP",
       "title": "ユニコーンとふうかのひみつの森",
+      "author": "original",
       "seriesId": "",
       "seriesTitle": null,
       "order": 1,
@@ -54,6 +102,7 @@
       "slug": "story-00001",
       "lang": "ja-JP",
       "title": "ユニコーンとふしぎなもり",
+      "author": "original",
       "seriesId": null,
       "seriesTitle": null,
       "order": 1,
@@ -73,6 +122,7 @@
       "slug": "story-00006",
       "lang": "ja-JP",
       "title": "ユニコーンとまほうの森",
+      "author": "original",
       "seriesId": "",
       "seriesTitle": null,
       "order": 1,
@@ -95,10 +145,36 @@
       "rev": "d7f6f010"
     },
     {
+      "id": "story_00009",
+      "slug": "story-00009",
+      "lang": "ja-JP",
+      "title": "星の銀貨",
+      "author": "グリム兄弟　Bruder Grimm / 楠山正雄訳",
+      "seriesId": null,
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "どうわ",
+        "グリム兄弟",
+        "グリム童話",
+        "青空文庫"
+      ],
+      "durationMs": 172570,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00009.webp?v=ea9fb764&v=ea9fb764",
+        "w": 1024,
+        "h": 1024
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00009.json?v=ea9fb764",
+      "rev": "ea9fb764"
+    },
+    {
       "id": "story_00002",
       "slug": "story-00002",
       "lang": "ja-JP",
       "title": "こぶたとふしぎなカメ",
+      "author": "original",
       "seriesId": "kobuta_poko",
       "seriesTitle": "こぶたのポコシリーズ",
       "order": 1,
@@ -118,6 +194,7 @@
       "slug": "story-00003",
       "lang": "ja-JP",
       "title": "こぶたとおしゃべりことり",
+      "author": "original",
       "seriesId": "kobuta_poko",
       "seriesTitle": "こぶたのポコシリーズ",
       "order": 2,
@@ -137,6 +214,7 @@
       "slug": "story-00004",
       "lang": "ja-JP",
       "title": "こぶたとふしぎなフクロウ",
+      "author": "original",
       "seriesId": "kobuta_poko",
       "seriesTitle": "こぶたのポコシリーズ",
       "order": 3,

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00009",
+  "lang": "ja-JP",
+  "title": "星の銀貨",
+  "rev": "ea9fb764",
+  "createdAt": "2025-09-30T13:24:02+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "author": "グリム兄弟　Bruder Grimm / 楠山正雄訳",
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00009.webp?v=ea9fb764",
+    "w": 1024,
+    "h": 1024
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1073
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "むかし、むかし、小さい女の子がありました。この子には、おとうさんもおかあさんもありませんでした。たいへんびんぼうでしたから、しまいには、もう住むにもへやはないし、もうねるにも寝床がないようになって、とうとうおしまいには、からだにつけたもののほかは、手にもったパンひとかけきりで、それもなさけぶかい人がめぐんでくれたものでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_001.m4a",
+        "durationMs": 25910,
+        "size": 214482
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "でも、この子は、心のすなおな、信心のあつい子でありました。それでも、こんなにして世の中からまるで見すてられてしまっているので、この子は、やさしい神さまのお力にだけすがって、ひとりぼっち、野原の上をあるいて行きました。すると、そこへ、びんぼうらしい男が出て来て、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_002.m4a",
+        "durationMs": 22454,
+        "size": 185845
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "「ねえ、なにかたべるものをおくれ。おなかがすいてたまらないよ。」と、いいました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_003.m4a",
+        "durationMs": 6912,
+        "size": 57882
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "女の子は、もっていたパンひとかけのこらず、その男にやってしまいました。そして、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_004.m4a",
+        "durationMs": 6571,
+        "size": 54938
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "「どうぞ神さまのおめぐみのありますように。」と、いのってやって、またあるきだしました。すると、こんどは、こどもがひとり泣きながらやって来て、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_005.m4a",
+        "durationMs": 11414,
+        "size": 94946
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "「あたい、あたまがさむくて、こおりそうなの。なにかかぶるものちょうだい。」と、いいました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_006.m4a",
+        "durationMs": 7510,
+        "size": 62871
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "そこで、女の子は、かぶっていたずきんをぬいで、子どもにやりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_007.m4a",
+        "durationMs": 5718,
+        "size": 48166
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "それから、女の子がまたすこし行くと、こんど出て来たこどもは、着物一枚着ずにふるえていました。そこで、じぶんの上着をぬいで着せてやりました。それからまたすこし行くと、こんど出てきたこどもは、スカートがほしいというので、女の子はそれもぬいで、やりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_008.m4a",
+        "durationMs": 20832,
+        "size": 172964
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "そのうち、女の子はある森にたどり着きました。もうくらくなっていましたが、また、もうひとりこどもが出て来て、肌着をねだりました。あくまで心のすなおな女の子は、（もうまっくらになっているからだれにもみられやしないでしょう。いいわ、肌着もぬいであげることにしましょう。）と、おもって、とうとう肌着までぬいで、やってしまいました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_009.m4a",
+        "durationMs": 25963,
+        "size": 215171
+      }
+    },
+    {
+      "id": "chap_010",
+      "title": "",
+      "text": "さて、それまでしてやって、それこそ、ないといって、きれいさっぱりなくなってしまったとき、たちまち、たかい空の上から、お星さまがばらばらおちて来ました。しかも、それがまったくの、ちかちかと白銀色をした、ターレル銀貨でありました。そのうえ、ついいましがた、肌着をぬいでやってしまったばかりなのに、女の子は、いつのまにか新しい肌着をきていて、しかもそれは、この上なくしなやかな麻の肌着でありました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_010.m4a",
+        "durationMs": 33579,
+        "size": 277976
+      }
+    },
+    {
+      "id": "chap_011",
+      "title": "",
+      "text": "女の子は、銀貨をひろいあつめて、それで一しょうゆたかにくらしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00009/chap_011.m4a",
+        "durationMs": 5707,
+        "size": 48040
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  },
+  "order": 1,
+  "tags": [
+    "どうわ",
+    "グリム兄弟",
+    "グリム童話",
+    "青空文庫"
+  ]
+}

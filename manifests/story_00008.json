@@ -1,0 +1,57 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00008",
+  "lang": "ja-JP",
+  "title": "sample",
+  "rev": "d6cab80b",
+  "createdAt": "2025-09-30T13:05:35+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "author": "original",
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "",
+    "w": 1080,
+    "h": 1600
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 7
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "サンプルだよ。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00008/chap_001.m4a",
+        "durationMs": 1259,
+        "size": 11657
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  },
+  "seriesId": "",
+  "order": 1,
+  "tags": [
+    "sample"
+  ]
+}

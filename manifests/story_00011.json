@@ -1,0 +1,238 @@
+{
+  "schemaVersion": "1.0",
+  "id": "story_00011",
+  "lang": "ja-JP",
+  "title": "手紙　一",
+  "rev": "6c10c561",
+  "createdAt": "2025-09-30T14:09:16+00:00",
+  "license": {
+    "type": "original",
+    "tts": {
+      "engine": "VOICEVOX",
+      "voiceName": "speaker:3",
+      "speakerId": 3
+    }
+  },
+  "author": "宮沢賢治",
+  "audioFormat": {
+    "container": "m4a",
+    "codec": "aac",
+    "sampleRateHz": 44100,
+    "channels": 1,
+    "bitrateKbps": 64,
+    "loudnessLufs": -16
+  },
+  "cover": {
+    "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00011.webp?v=6c10c561",
+    "w": 1024,
+    "h": 1024
+  },
+  "text": {
+    "summary": "",
+    "wordCount": 1139
+  },
+  "chapters": [
+    {
+      "id": "chap_001",
+      "title": "",
+      "text": "むかし、あるところに一疋の竜がすんでいました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_001.m4a",
+        "durationMs": 4011,
+        "size": 34085
+      }
+    },
+    {
+      "id": "chap_002",
+      "title": "",
+      "text": "力が非常に強く、かたちも大層恐ろしく、それにはげしい毒をもっていましたので、あらゆるいきものがこの竜に遭えば、弱いものは目に見ただけで気を失って倒れ、強いものでもその毒気にあたってまもなく死んでしまうほどでした。この竜はあるとき、よいこころを起して、これからはもう悪いことをしない、すべてのものをなやまさないと誓いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_002.m4a",
+        "durationMs": 26742,
+        "size": 221323
+      }
+    },
+    {
+      "id": "chap_003",
+      "title": "",
+      "text": "そして静かなところを、求めて林の中に入ってじっと道理を考えていましたがとうとうつかれてねむりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_003.m4a",
+        "durationMs": 8150,
+        "size": 68061
+      }
+    },
+    {
+      "id": "chap_004",
+      "title": "",
+      "text": "全体、竜というものはねむるあいだは形が蛇のようになるのです。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_004.m4a",
+        "durationMs": 5387,
+        "size": 45336
+      }
+    },
+    {
+      "id": "chap_005",
+      "title": "",
+      "text": "この竜も睡って蛇の形になり、からだにはきれいなるり色や金色の紋があらわれていました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_005.m4a",
+        "durationMs": 7329,
+        "size": 61340
+      }
+    },
+    {
+      "id": "chap_006",
+      "title": "",
+      "text": "そこへ猟師共が来まして、この蛇を見てびっくりするほどよろこんで云いました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_006.m4a",
+        "durationMs": 5814,
+        "size": 48912
+      }
+    },
+    {
+      "id": "chap_007",
+      "title": "",
+      "text": "「こんなきれいな珍らしい皮を、王様に差しあげてかざりにしてもらったらどんなに立派だろう。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_007.m4a",
+        "durationMs": 6710,
+        "size": 56167
+      }
+    },
+    {
+      "id": "chap_008",
+      "title": "",
+      "text": "そこで杖でその頭をぐっとおさえ刀でその皮をはぎはじめました。竜は目をさまして考えました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_008.m4a",
+        "durationMs": 7712,
+        "size": 64573
+      }
+    },
+    {
+      "id": "chap_009",
+      "title": "",
+      "text": "「おれの力はこの国さえもこわしてしまえる。この猟師なんぞはなんでもない。いまおれがいきをひとつすれば毒にあたってすぐ死んでしまう。けれども私はさっき、もうわるいことをしないと誓ったしこの猟師をころしたところで本当にかあいそうだ。もはやこのからだはなげすてて、こらえてこらえてやろう。」",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_009.m4a",
+        "durationMs": 22027,
+        "size": 182714
+      }
+    },
+    {
+      "id": "chap_010",
+      "title": "",
+      "text": "すっかり覚悟がきまりましたので目をつぶって痛いのをじっとこらえ、またその人を毒にあてないようにいきをこらして一心に皮をはがれながらくやしいというこころさえ起しませんでした。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_010.m4a",
+        "durationMs": 12726,
+        "size": 106072
+      }
+    },
+    {
+      "id": "chap_011",
+      "title": "",
+      "text": "猟師はまもなく皮をはいで行ってしまいました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_011.m4a",
+        "durationMs": 3307,
+        "size": 28415
+      }
+    },
+    {
+      "id": "chap_012",
+      "title": "",
+      "text": "竜はいまは皮のない赤い肉ばかりで地によこたわりました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_012.m4a",
+        "durationMs": 4406,
+        "size": 37435
+      }
+    },
+    {
+      "id": "chap_013",
+      "title": "",
+      "text": "この時は日がかんかんと照って土は非常にあつく、竜はくるしさにばたばたしながら水のあるところへ行こうとしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_013.m4a",
+        "durationMs": 8694,
+        "size": 72864
+      }
+    },
+    {
+      "id": "chap_014",
+      "title": "",
+      "text": "このとき沢山の小さな虫が、そのからだを食おうとして出てきましたので蛇はまた、",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_014.m4a",
+        "durationMs": 6230,
+        "size": 52392
+      }
+    },
+    {
+      "id": "chap_015",
+      "title": "",
+      "text": "「いまこのからだをたくさんの虫にやるのはまことの道のためだ。いま肉をこの虫らにくれておけばやがてはまことの道をもこの虫らに教えることができる。」と考えて、だまってうごかずに虫にからだを食わせとうとう乾いて死んでしまいました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_015.m4a",
+        "durationMs": 17451,
+        "size": 144976
+      }
+    },
+    {
+      "id": "chap_016",
+      "title": "",
+      "text": "死んでこの竜は天上にうまれ、後には世界でいちばんえらい人、お釈迦様になってみんなに一番のしあわせを与えました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_016.m4a",
+        "durationMs": 9366,
+        "size": 78116
+      }
+    },
+    {
+      "id": "chap_017",
+      "title": "",
+      "text": "このときの虫もみなさきに竜の考えたように後にお釈迦さまから教を受けてまことの道に入りました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_017.m4a",
+        "durationMs": 7392,
+        "size": 61921
+      }
+    },
+    {
+      "id": "chap_018",
+      "title": "",
+      "text": "このようにしてお釈迦さまがまことのために身をすてた場所はいまは世界中のあらゆるところをみたしました。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_018.m4a",
+        "durationMs": 7190,
+        "size": 60370
+      }
+    },
+    {
+      "id": "chap_019",
+      "title": "",
+      "text": "このはなしはおとぎばなしではありません。",
+      "audio": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/audio/story_00011/chap_019.m4a",
+        "durationMs": 2859,
+        "size": 25261
+      }
+    }
+  ],
+  "preload": {
+    "chapters": [
+      "chap_001"
+    ],
+    "cover": true
+  },
+  "order": 1,
+  "tags": [
+    "どうわ",
+    "宮沢賢治",
+    "青空文庫"
+  ]
+}

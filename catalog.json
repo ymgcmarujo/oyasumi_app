@@ -1,6 +1,6 @@
 {
   "schemaVersion": "1.1",
-  "generatedAt": "2025-09-30T13:52:17+00:00",
+  "generatedAt": "2025-09-30T14:14:29+00:00",
   "stories": [
     {
       "id": "story_00008",
@@ -143,6 +143,54 @@
       },
       "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00006.json?v=d7f6f010",
       "rev": "d7f6f010"
+    },
+    {
+      "id": "story_00011",
+      "slug": "story-00011",
+      "lang": "ja-JP",
+      "title": "手紙　一",
+      "author": "宮沢賢治",
+      "seriesId": null,
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "どうわ",
+        "宮沢賢治",
+        "青空文庫"
+      ],
+      "durationMs": 173503,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00011.webp?v=6c10c561&v=6c10c561",
+        "w": 1024,
+        "h": 1024
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00011.json?v=6c10c561",
+      "rev": "6c10c561"
+    },
+    {
+      "id": "story_00012",
+      "slug": "story-00012",
+      "lang": "ja-JP",
+      "title": "手紙　四",
+      "author": "宮沢賢治",
+      "seriesId": null,
+      "seriesTitle": null,
+      "order": 1,
+      "ageRange": "3-6",
+      "tags": [
+        "どうわ",
+        "宮沢賢治",
+        "青空文庫"
+      ],
+      "durationMs": 268782,
+      "cover": {
+        "url": "https://ymgcmarujo.github.io/oyasumi_app/images/story_00012.webp?v=78678820&v=78678820",
+        "w": 1024,
+        "h": 1024
+      },
+      "manifestUrl": "https://ymgcmarujo.github.io/oyasumi_app/manifests/story_00012.json?v=78678820",
+      "rev": "78678820"
     },
     {
       "id": "story_00009",
